@@ -1,0 +1,3 @@
+1. Files for the task 1 are "model.py", "unet.py" and "train_mnist.py". Files for task 2 are "model_with_given_label.py", "unet_with_given_label.py", "train_with_given_label.py" and a model checkpoint file "model_with_given_label.pt".
+2. For testing task 2, please run the model_eval.ipynb file, and you can change the parameter "labels" to generate given numbers.
+3. If you meet any problem, please contact me through lzx88888@connect.hku.hk.
